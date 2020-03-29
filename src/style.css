@@ -1,0 +1,125 @@
+#root{
+  font: 1em sans-serif;
+  text-align: center;
+  margin:auto;
+}
+
+body {
+    background-color: #777;
+    line-height: 1.5;
+    margin: auto;
+    padding: auto;
+    min-width: 30em;
+    /* background: url('https://source.unsplash.com/FoKO4DpXamQ/1920x1080') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -size: cover;
+    -o-background-size: cover;*/
+}
+
+.brandingheader{
+ margin: auto;
+}
+.NavBarBox{
+  border: .1em solid #000;
+  border-radius: 2%;
+}
+.week-row{
+  padding:auto;
+  margin:auto;
+}
+.labels{
+  width:100%;
+}
+
+.uhoh{
+  color:black;
+  font-size: .75em;
+    width: 2.5em;
+    height:2.5em;
+    border-radius: 12.5%;
+    margin:.2em;   
+  background-color: #f8f9fa;
+  display: block;
+  text-align: center;
+}
+
+
+.nav-item{
+  margin:1em;
+  padding:.5em;
+  border: .15em solid whitesmoke;
+  border-radius: 15%;
+}
+
+.MonthBlock {
+  width: min-content;
+  font: 25px "Century Gothic", Futura, sans-serif;;
+  padding:.5em;
+  margin-bottom: 1em;
+  border: .1em solid Black;
+  background-color: darkgray;
+}
+
+.month-title{
+  border-bottom: .05em solid black;
+}
+
+.day{
+    font-size: .75em;
+    width: 2.5em;
+    height:2.5em;
+    border-radius: 12.5%;
+    margin:.1em;   
+}
+
+
+#descrip{
+  border: .35em solid darkblue;
+  border-radius: 5%;
+  padding-top:5em;
+  background-color: #bbbbbb
+}
+
+#BrandingBox{
+  text-align: center;
+  border: 1em solid darkcyan
+}
+
+#navBarBox{
+  border:.1em solid white
+}
+
+#copyright{
+  width:100%;
+  border: .1em solid #222;
+  padding-top:1.25em
+
+}
+
+#infoFormAlert{
+  margin: 2em;
+}
+
+
+#dayLabel{
+  padding: 0em .1em ;
+  margin:0em;
+
+}
+
+
+#boxComponent{
+  border-bottom: .25em solid black;
+  padding: 1em;
+}
+
+#otherNotes{
+  height: 5em;
+  width: 25em;
+}
+
+#deadline{
+  font-size: 2em;
+  color: red;
+}
